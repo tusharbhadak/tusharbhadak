@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Tushar Bhadak</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
