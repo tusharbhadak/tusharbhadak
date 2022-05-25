@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar Bhadak</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharbhadak&label=Profile%20views&color=0e75b6&style=flat" alt="tusharbhadak" /> </p>
-
 <p align="left"> <a href="https://twitter.com/bhadaktushar" target="blank"><img src="https://img.shields.io/twitter/follow/bhadaktushar?logo=twitter&style=for-the-badge" alt="bhadaktushar" /></a> </p>
 
-- 💬 Ask me about **Python, AI & ML, Azure, GCP, Power BI**
+- 💬 Ask me about **Python, Power BI, R, AI & ML, Azure, GCP, AWS, Web3 , Crypto **
 
 - 📫 How to reach me **ahir6tushar@gmail.com**
 
