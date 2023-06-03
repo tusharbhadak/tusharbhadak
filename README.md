@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 💬 Ask me about Python, Power BI, R, AI,  ML, Azure, GCP, AWS, Data Visualization, Web3 , Blockchain<br><br>
 - 📫 How to reach me tusharbhadak6@gmail.com<br><br>
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/178_ix3N3bXpnNp1_KGXxME4r34ubfrpm/view?usp=sharing">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13av3z5h-etO93J4KtsoX-vPYAzODRe1l/view?usp=sharing">here</a>
 
 
 ## 🌐 Socials:
