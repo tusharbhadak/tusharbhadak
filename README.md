@@ -5,9 +5,9 @@
   <a href="https://twitter.com/bhadaktushar" target="_blank"><img src="https://img.shields.io/twitter/follow/bhadaktushar?logo=twitter&style=for-the-badge" alt="bhadaktushar" /></a>
 </p>
 
-<p align="left">💬 Ask me about **Python, Power BI, R, AI & ML, Azure, GCP, AWS, Web3, Crypto**</p>
+<p align="left">💬 Ask me about **Python, Power BI, R, AI, ML, Azure, GCP, AWS, Power BI, Data Visualization Web3, Blockchain**</p>
 <p align="left">📫 How to reach me **ahir6tushar@gmail.com**</p>
-<p align="left">📄 Know about my experiences [Resume](https://drive.google.com/file/d/178_ix3N3bXpnNp1_KGXxME4r34ubfrpm/view?usp=sharing)</p>
+<p align="left">📄 Know about my experiences [https://drive.google.com/file/d/178_ix3N3bXpnNp1_KGXxME4r34ubfrpm/view?usp=sharing](https://drive.google.com/file/d/178_ix3N3bXpnNp1_KGXxME4r34ubfrpm/view?usp=sharing) <p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
