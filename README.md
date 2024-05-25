@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Tushar Bhadak</h1>
-<h3 align="center">A Passionate Data Scientist & Python Developer from India</h3>
+<h3 align="center">An Azure Developer Community Lead (Surat Chapter), Passionate Data Scientist & Python Developer from India</h3>
 
 # 💫 About Me:
 - 💬 Ask me about Python, Power BI, R, AI,  ML, Azure, GCP, AWS, Data Visualization, Web3 , Blockchain<br><br>
