@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Tushar Bhadak</h1>
-<h3 align="center">An Azure Developer Community Lead (Surat Chapter), Passionate Data Scientist & Python Developer from India</h3>
+<h3 align="center">🚀 Transforming Ideas into Digital Success using AI & Cloud | Microsoft Azure Developer Community Lead | Microsoft Certified: Fabric Analytics Engineer Associate | Python Dev | Data Scientist | Let's Drive Results Together 💻📈📊 </h3>
 
 # 💫 About Me:
 - 💬 Ask me about Python, Power BI, R, AI,  ML, Azure, GCP, AWS, Data Visualization, Web3 , Blockchain<br><br>
